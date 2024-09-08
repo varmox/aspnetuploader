@@ -1,2 +1,2 @@
 # aspnetuploader
-simple stupid asp net uploader
+simple stupid asp net uploader - unsecure by design
